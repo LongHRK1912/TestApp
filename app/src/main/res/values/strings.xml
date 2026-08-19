@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="press_back_again_to_exit">Nhấn quay lại lần nữa để thoát</string>
+    <string name="share_app_text">Check out %1$s: https://play.google.com/store/apps/details?id=%2$s</string>
+    <string name="theme_dark">Tối</string>
+    <string name="theme_light">Sáng</string>
+    <string name="please_wait">Vui lòng chờ…</string>
+    <string name="not_connected_content">Ứng dụng này cần kết nối Internet để hoạt động. Vui lòng kết nối Wi-Fi hoặc dữ liệu di động và thử lại.</string>
+    <string name="open_settings">Mở Cài đặt</string>
+
+    <!-- Player & Karaoke strings -->
+    <string name="song_title_default">Về đâu mái tóc người thương</string>
+    <string name="artist_name_default">Quang Lê</string>
+    <string name="player_play">Phát</string>
+    <string name="player_pause">Tạm dừng</string>
+    <string name="player_stop">Dừng</string>
+    <string name="player_next">Bài tiếp theo</string>
+    <string name="player_prev">Bài trước đó</string>
+    <string name="player_shuffle">Xáo trộn</string>
+    <string name="player_repeat">Lặp lại</string>
+    <string name="player_collapse">Thu nhỏ</string>
+    
+    <!-- Lyric Modes -->
+    <string name="lyric_mode_title">Chế độ hiển thị lời bài hát</string>
+    <string name="lyric_mode_smooth">Tô màu mượt từng ký tự (Yêu cầu 4)</string>
+    <string name="lyric_mode_word">Tô màu theo từng từ/ký tự (Yêu cầu 3)</string>
+    <string name="lyric_mode_line">Tô màu theo từng dòng (Yêu cầu 2)</string>
+    <string name="lyric_mode_smooth_short">Mượt mà</string>
+    <string name="lyric_mode_word_short">Từng từ</string>
+    <string name="lyric_mode_line_short">Từng dòng</string>
+
+
+    <!-- Status & Info -->
+    <string name="player_loading_audio">Đang tải nhạc…</string>
+    <string name="player_loading_lyrics">Đang tải lời bài hát…</string>
+    <string name="player_error_load">Không thể tải bài hát</string>
+    <string name="player_retry">Thử lại</string>
+</resources>
